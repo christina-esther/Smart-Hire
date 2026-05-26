@@ -23,13 +23,33 @@
 
 > Landing Page · Jobs · Candidate Dashboard · Recruiter Panel · Admin Analytics
 
-| Landing | Jobs | Dashboard |
-|---|---|---|
-| ![Landing](./assets/landing.png) | ![Jobs](./assets/jobs.png) | ![Dashboard](./assets/candidate_dashboard.png) |
+<table>
+<tr>
+<td align="center"><b>Landing</b></td>
+<td align="center"><b>Jobs</b></td>
+<td align="center"><b>Dashboard</b></td>
+</tr>
 
-| Recruiter Dashboard | Admin Dashboard |
-|---|---|
-| ![Recruiter](./assets/recruiter_dashboard.png) | ![Admin](./assets/admin_dashboard.png) |
+<tr>
+<td><img src="./assets/landing.png" width="300"/></td>
+<td><img src="./assets/jobs.png" width="300"/></td>
+<td><img src="./assets/candidate_dashboard.png" width="300"/></td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td align="center"><b>Recruiter Dashboard</b></td>
+<td align="center"><b>Admin Dashboard</b></td>
+</tr>
+
+<tr>
+<td><img src="./assets/recruiter_dashboard.png" width="450"/></td>
+<td><img src="./assets/admin_dashboard.png" width="450"/></td>
+</tr>
+</table>
 
 ---
 
