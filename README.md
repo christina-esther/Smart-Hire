@@ -21,11 +21,15 @@
 
 ## 📸 Screenshots
 
-> Landing Page · Candidate Dashboard · Recruiter Panel · Admin Analytics
+> Landing Page · Jobs · Candidate Dashboard · Recruiter Panel · Admin Analytics
 
 | Landing | Jobs | Dashboard |
-|--------|------|-----------|
-| ![Landing](https://placehold.co/380x220/6366f1/ffffff?text=Landing+Page) | ![Jobs](https://placehold.co/380x220/6366f1/ffffff?text=Job+Listings) | ![Dashboard](https://placehold.co/380x220/6366f1/ffffff?text=Dashboard) |
+|---|---|---|
+| ![Landing](./assets/landing.png) | ![Jobs](./assets/jobs.png) | ![Dashboard](./assets/candidate_dashboard.png) |
+
+| Recruiter Dashboard | Admin Dashboard |
+|---|---|
+| ![Recruiter](./assets/recruiter_dashboard.png) | ![Admin](./assets/admin_dashboard.png) |
 
 ---
 
