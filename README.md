@@ -13,7 +13,9 @@
 [![JWT](https://img.shields.io/badge/Auth-JWT-000000?style=flat-square&logo=jsonwebtokens)](https://jwt.io/)
 [![Gemini AI](https://img.shields.io/badge/AI-Gemini-4285F4?style=flat-square&logo=google)](https://ai.google.dev/)
 
-[Live Demo](#) · [Report Bug](#) · [Request Feature](#)
+## 🚀 SmartHire – AI Powered Job Portal
+
+🔗 [Live Demo](https://smart-hire-web.netlify.app)
 
 </div>
 
